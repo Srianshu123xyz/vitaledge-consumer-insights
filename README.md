@@ -1,2 +1,25 @@
-# vitaledge-consumer-insights
-End-to-end consumer insights project for a D2C health supplements brand. Includes synthetic survey data (2,000 respondents), 10 SQL queries covering funnel analysis, channel effectiveness, NPS, and purchase barriers, and a Tableau Public dashboard with 5 interactive charts.
+# VitalEdge Consumer Insights — Market Research Analysis
+
+## Project Overview
+End-to-end market research simulation for a D2C health supplements brand.
+2,000 synthetic respondents | SQL Analysis | Tableau Dashboard
+
+## Tools Used
+- MySQL (SQL analysis)
+- Tableau Public (Dashboard)
+- Python (Data generation)
+
+## Key Insights
+- Price is the #1 purchase barrier (24.7% of non-buyers)
+- YouTube drives highest conversion rate (15.1%) vs Instagram (13.4%)
+- Probiotic and Collagen are undermarketed — highest conversion, lower awareness spend
+- Mumbai leads city-level conversion (15.2%); Jaipur needs attention (10.5%)
+- NPS score: +10.6 (41.9% Promoters vs 31.3% Detractors)
+
+## Dashboard
+[View Live Dashboard on Tableau Public](#) ← paste your Tableau link here
+
+## Files
+- `vitaledge_survey_data.csv` — Raw survey data (2,000 rows)
+- `vitaledge_sql_analysis.sql` — 10 SQL queries with comments
+- `q1_funnel.csv` through `q8_income.csv` — Query outputs
