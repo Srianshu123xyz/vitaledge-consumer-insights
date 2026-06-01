@@ -17,7 +17,7 @@ End-to-end market research simulation for a D2C health supplements brand.
 - NPS score: +10.6 (41.9% Promoters vs 31.3% Detractors)
 
 ## Dashboard
-[View Live Dashboard on Tableau Public](#) ← paste your Tableau link here
+[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/sri.anshu.chaturvedi/viz/VitalEdge_Analysis/Dashboard1?publish=yes) 
 
 ## Files
 - `vitaledge_survey_data.csv` — Raw survey data (2,000 rows)
