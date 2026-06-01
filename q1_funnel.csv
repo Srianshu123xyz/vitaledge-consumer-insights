@@ -1,0 +1,7 @@
+stage_order,funnel_stage,total_reached,pct_of_total
+1,Awareness,2000,100.0
+2,Consideration,1461,73.0
+3,Intent,845,42.3
+4,Trial,413,20.6
+5,Purchase,272,13.6
+6,Repeat Purchase,119,6.0
